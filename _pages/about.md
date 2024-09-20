@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a doctoral candidate at Jilin University, under the supervision of Professor Tieru Wu. My research interests lie at the intersection of mathematics and artificial intelligence. Specifically, I am engaged in the study of counterfactual explanations and statistical learning.
+
 ---
 
 Education
